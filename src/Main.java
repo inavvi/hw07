@@ -90,7 +90,7 @@ public class Main {
         var totale=0;
         for (var indexa=1; indexa<=10; indexa++) {
             totale=number*indexa;
-            System.out.println(+number+"*" + indexa + "=1"+totale);
+            System.out.println(+number+"*" + indexa + "="+totale);
         }
     }
 }
